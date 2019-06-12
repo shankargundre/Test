@@ -1,7 +1,6 @@
 package aaa;
 
 public class bbb {
-
 public static void main(String[] args) {
 	
 	A a= new A(); 
@@ -10,8 +9,7 @@ public static void main(String[] args) {
 	a.m1();
 	System.out.println(b.m1(20));
 	a1.m1();
-}	
-}
+}}
  class A{
 	 public void m1() {
 		 System.out.println("method class A");
