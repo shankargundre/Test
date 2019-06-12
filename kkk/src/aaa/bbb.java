@@ -1,6 +1,7 @@
 package aaa;
 
 public class bbb {
+<<<<<<< HEAD
 public static void main(String[] args) {
 	
 	A a= new A(); 
@@ -10,6 +11,12 @@ public static void main(String[] args) {
 	System.out.println(b.m1(20));
 	a1.m1();
 	
+=======
+  publi void methodeone( ){
+    system.out.println("helllo00000000000000000000 shankar");
+  }
+
+>>>>>>> branch 'master' of https://github.com/shankargundre/Test.git
 }
 }
  class A{
