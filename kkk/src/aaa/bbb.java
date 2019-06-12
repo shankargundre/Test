@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	a1.m1();
 	
 =======
-  publi void methodeone( ){
+  public void methodeone( ){
     system.out.println("helllo00000000000000000000 shankar");
   }
 
