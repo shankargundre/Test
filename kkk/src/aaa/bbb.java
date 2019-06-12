@@ -37,3 +37,6 @@ public static void main(String[] args) {
 		 System.out.println("method of class C which is override");
 	 }
  }
+
+class D{
+}
